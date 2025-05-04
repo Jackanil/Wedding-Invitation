@@ -1,0 +1,92 @@
+.font-lavishly {
+    font-family: "Lavishly Yours", cursive;
+}
+.font-imperial-script {
+    font-family: "Imperial Script", cursive;
+}
+.font-tangerine {
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+
+}
+
+* {
+    text-align: center;
+}
+
+iframe {
+    max-width: 600px;
+}
+
+body {
+    background: url('https://img.freepik.com/premium-photo/abstract-yellow-watercolor-stain-with-paper-texture-background-template-invitation-card-greeting-card-wedding-card_364465-1670.jpg');
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sub-head {
+    font-size: 54px;
+    margin-bottom: 10px;
+}
+
+header img {
+    width: 200px;
+    mix-blend-mode: multiply;
+}
+
+header h1 {
+    font-size: 48px;
+    margin: 10px 0;
+}
+
+header p {
+    font-size: 18px;
+    margin: 0;
+}
+
+#groom-bride-name h2 {
+    font-size: 60px;
+    margin: 20px 0;
+}
+
+#groom-bride-illustration img {
+    width: 400px;
+    mix-blend-mode: multiply;
+}
+
+#date-venue {
+    font-size: 20px;
+}
+
+footer iframe {
+    width: 100%;
+}
+
+#venue p {
+    font-size: 20px;
+}
+
+#venue iframe {
+    width: 100%;
+}
+
+#wedding-plan h4 {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#compliments p {
+    font-size: 20px;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+#baby-calling {
+    font-size: 22px;
+}
